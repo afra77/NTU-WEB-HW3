@@ -1,0 +1,13 @@
+p{
+	color: #fff;
+	font-family: sans-serif;
+	}
+ul{
+  width: 200px;
+}
+
+li{
+  margin-top: 20px;
+  margin-bottom: 10px;
+  border-bottom: 1px solid black;
+}
